@@ -104,4 +104,9 @@ sections:
     bg_color: light
     type: cta_section
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
