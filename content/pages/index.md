@@ -59,17 +59,6 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Team Growth
-        image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
