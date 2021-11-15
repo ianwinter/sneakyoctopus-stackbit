@@ -59,7 +59,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Experience design
+      - title: Team Growth
         image: images/service-3.svg
         content: |-
           - Digital product design
