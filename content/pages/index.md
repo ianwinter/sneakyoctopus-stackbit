@@ -109,17 +109,16 @@ sections:
     type: content_section
   - section_id: lorem-ipsum
     title: Quotes
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      > Creativity is allowing yourself to make mistakes. Design is knowing
+      which ones to keep.
 
+      >
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      > — Scott Adams
     actions: []
     image_alt: lorem-ipsum
     bg_color: none
