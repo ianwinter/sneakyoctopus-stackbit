@@ -5,7 +5,6 @@
     "accent_color": "yellow",
     "base_font": "fraunces",
     "header": {
-        "title": "Sneaky Octopus",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
