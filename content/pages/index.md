@@ -110,7 +110,6 @@ sections:
   - section_id: lorem-ipsum
     title: Quotes
     content: >
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 
       > Creativity is allowing yourself to make mistakes. Design is knowing
