@@ -108,7 +108,7 @@ sections:
       > — Scott Adams
     type: content_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Quotes
     content: >-
       ## Lorem ipsum
 
