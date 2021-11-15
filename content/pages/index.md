@@ -105,6 +105,6 @@ sections:
         style: button
     image: images/cta.svg
     image_alt: Illustration
-    bg_color: none
+    bg_color: light
 layout: advanced
 ---
