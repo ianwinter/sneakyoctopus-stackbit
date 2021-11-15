@@ -95,14 +95,13 @@ sections:
     bg_color: light
   - section_id: quote
     content: >
-
-
-      > Creativity is allowing yourself to make mistakes. Design is knowing
-      which ones to keep.
+      > Talent without discipline is like an octopus on roller skates. There's
+      plenty of movement, but you never know if it's going to be forward,
+      backwards, or sideways.
 
       >
 
-      > — Scott Adams
+      > — H. Jackson Brown, Jr.
     type: content_section
   - section_id: lorem-ipsum
     title: Quotes
