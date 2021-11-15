@@ -94,7 +94,6 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: quote
-    image_alt: lorem-ipsum
     content: >
 
 
