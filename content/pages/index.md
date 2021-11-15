@@ -121,7 +121,7 @@ sections:
       > — Scott Adams
     actions: []
     image_alt: lorem-ipsum
-    bg_color: none
+    bg_color: light
     type: cta_section
 layout: advanced
 ---
