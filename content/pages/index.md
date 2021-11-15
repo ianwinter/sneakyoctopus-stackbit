@@ -37,7 +37,7 @@ sections:
     section_id: services
     title: Services
     subtitle: What we do
-    col_number: three
+    col_number: two
     grid_items:
       - title: Hosting
         image: images/service-1.svg
