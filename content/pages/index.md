@@ -49,7 +49,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
-      - title: Brand design
+      - title: Advise
         image: images/service-2.svg
         content: |-
           - Brand development
