@@ -80,18 +80,6 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - type: cta_section
-    section_id: cta
-    title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
-    actions:
-      - label: Let's start
-        url: /contact
-        style: button
-    image_alt: Illustration
-    bg_color: light
   - section_id: quote
     content: >
       > Talent without discipline is like an octopus on roller skates. There's
